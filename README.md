@@ -26,7 +26,6 @@
     -->
   </a>
 </p>
-
 <p align="center">
   </a>
   &emsp;
@@ -46,26 +45,7 @@
     <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
   </a>
   &emsp;
-  <br><br>
-  <strong>Check out my work below!</strong>
-  <br><br>
-  <a href="https://github.com/xwj770427414">
-    <img src="https://badges.pufler.dev/visits/xwj770427414/xwj770427414?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/xwj770427414">
-    <img src="https://badges.pufler.dev/years/xwj770427414?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/xwj770427414?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/xwj770427414?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://gist.github.com/xwj770427414">
-    <img src="https://badges.pufler.dev/gists/xwj770427414?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/xwj770427414">
-    <img src="https://badges.pufler.dev/commits/monthly/xwj770427414?style=flat-square&color=black&logo=github">
-  </a>
 </p>
-
 
 <h2></h2>
 
@@ -84,7 +64,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 <code><img height="20" src="OctoCharmve/pytorch-logo.png" alt="PyTorch" title="PyTorch"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
-
 
 **Tools and Environments**
 

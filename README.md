@@ -1,4 +1,4 @@
-## Hi, 👋  I'm <a href="https://xwj770427414.github.io/" target="_blank">Wenjie Xu (Warrick)</a> <sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup>
+## Hi, 👋  I'm <a href="https://xwj770427414.github.io/" target="_blank">Wenjie Xu (Warrick)</a>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <em><b>I love dealing with different people,</b> so if you want to say <b>contact me, I'll  be happy to talk to you!</b> : )</em>
 
@@ -17,15 +17,12 @@
 <!--my introduction end -->
 
 <br>
-
 <p align="center">
-  <a href="https://github.com/xwj770427414" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=xwj770427414&title_color=333&text_color=777" alt="Wenjie Xu's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
-    -->
+  <a href="https://github.com/WenjieXu2000" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=WenjieXu2000&title_color=333&text_color=777" alt="Wenjie Xu's Stats" >
   </a>
 </p>
+
 <p align="center">
   </a>
   &emsp;

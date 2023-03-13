@@ -1,16 +1,16 @@
-## Hi, 👋  I'm <a href="https://xwj770427414.github.io/" target="_blank">Wenjie Xu (Warrick)</a>
+## Hi, 👋  I'm <a href="https://WenjieXu2000.github.io/" target="_blank">Wenjie Xu (Warrick)</a>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <em><b>I love dealing with different people,</b> so if you want to say <b>contact me, I'll  be happy to talk to you!</b> : )</em>
 
 <!--my introduction start-->
 
-<!-- The one on the left is [Wenjie Xu](https://github.com/xwj770427414), he will speak for me in the virtual world. -->
+<!-- The one on the left is [Wenjie Xu](https://github.com/WenjieXu2000), he will speak for me in the virtual world. -->
 
 > You can find how to contact me in the following paltform icon url. You can follow me to find something more interesting.
 
 - 👨‍🎓 I am currently pursuing my bachelor's degree in China, and my research interests are machine learning, big data management and decision making, and risk management.
 - ❤️ I like eating 🍉, raising 😺, playing 🏀 and  sleeping in 🛌.
-- 💬 Be free to ask me about anything [here](https://github.com/xwj770427414/xwj770427414/issues).
+- 💬 Be free to ask me about anything [here](https://github.com/WenjieXu2000/WenjieXu2000/issues).
 
 ---
 
@@ -77,10 +77,10 @@
 
 <br>
 
-If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [Warrick Sponsors](https://xwj770427414.github.io/sponsor.html) to support me, click the button. Your name will be shown at [https://xwj770427414.github.io/sponsor.html](https://xwj770427414.github.io/sponsor.html).
+If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [Warrick Sponsors](https://WenjieXu2000.github.io/sponsor.html) to support me, click the button. Your name will be shown at [https://WenjieXu2000.github.io/sponsor.html](https://WenjieXu2000.github.io/sponsor.html).
 
 <!--START_SECTION:sponsors-->
-<a href="https://xwj770427414.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://WenjieXu2000.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 --------------------
 

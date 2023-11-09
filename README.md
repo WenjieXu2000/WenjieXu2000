@@ -8,7 +8,7 @@
 
 > You can find how to contact me in the following paltform icon url. You can follow me to find something more interesting.
 
-- 👨‍🎓 I am currently pursuing my bachelor's degree in China, and my research interests are machine learning, big data management and decision making, and risk management.
+- 👨‍🎓 I am currently pursuing a master's degree in risk management and decision analysis in China.
 - ❤️ I like eating 🍉, raising 😺, playing 🏀 and  sleeping in 🛌.
 - 💬 Be free to ask me about anything [here](https://github.com/WenjieXu2000/WenjieXu2000/issues).
 

@@ -75,10 +75,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 
 <br>
-
-If you like ~~me~~ or my projects, you can buy me a ☕ coffee 🍉 / 🍦 or 🍰 cake at [Warrick Sponsors](https://WenjieXu2000.github.io/sponsor.html) to support me, click the button. Your name will be shown at [https://WenjieXu2000.github.io/sponsor.html](https://WenjieXu2000.github.io/sponsor.html).
-
-<!--START_SECTION:sponsors-->
-<a href="https://WenjieXu2000.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 --------------------

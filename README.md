@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm
     <a href="https://WenjieXu2000.github.io/" target="_blank"> Wenjie Xu (Wayne) </a>
 </h1>
-<h3 align="left"> A postgraduate student from CASISD.</h3>
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Hi">
 <em><b> I love dealing with different people,</b> so if you want to <b>contact me</b>, I'll be happy to talk to you! You
     can follow me to find something more interesting.</em>

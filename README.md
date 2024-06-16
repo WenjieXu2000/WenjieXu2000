@@ -1,78 +1,97 @@
-## Hi, 👋  I'm <a href="https://WenjieXu2000.github.io/" target="_blank">Wenjie Xu (Wayne)</a>
+<!--init information-->
+<h1 align="left">Hi 👋, I'm
+    <a href="https://WenjieXu2000.github.io/" target="_blank"> Wenjie Xu (Wayne) </a>
+</h1>
+<h3 align="left"> A postgraduate student from CASISD.</h3>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Hi">
+<em><b> I love dealing with different people,</b> so if you want to <b>contact me</b>, I'll be happy to talk to you! You
+    can follow me to find something more interesting.</em>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <em><b>I love dealing with different people,</b> so if you want to say <b>contact me, I'll  be happy to talk to you!</b> : )</em>
-
+---
 <!--my introduction start-->
+- 👨‍🎓 I’m currently pursuing a master's degree in Management Science and Engineering at <a
+    href="http://www.casisd.cn/" target="_blank"> CASISD. </a>
 
-<!-- The one on the left is [Wenjie Xu](https://github.com/WenjieXu2000), he will speak for me in the virtual world. -->
+- 🔭 My research primarily focuses on risk management, exploring effective strategies for risk assessment and
+mitigation.
+- ⚡ I have a strong passion for programming and software development, and I enjoy using these skills to create
+innovative tools that address real-world challenges.
 
-> You can find how to contact me in the following paltform icon url. You can follow me to find something more interesting.
+- 📝 I regularly write articles and share insights on my <a href="https://WenjieXu2000.github.io/"
+    target="_blank">personal homepage</a>. Visit to stay updated with my latest research and projects.
 
-- 👨‍🎓 I am currently pursuing a master's degree in risk management and decision analysis in China.
-- ❤️ I like eating 🍉, raising 😺, playing 🏀 and  sleeping in 🛌.
-- 💬 Be free to ask me about anything [here](https://github.com/WenjieXu2000/WenjieXu2000/issues).
+- 💬 <em>Feel free to reach out to me with any inquiries at <a
+        href="mailto:wenjie_xu2000@outlook.com">wenjie_xu2000@outlook.com</a>.</em>
+
+<!--my introduction end -->
+---
+<p><img align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=wenjiexu2000&show_icons=true&locale=en&layout=compact"
+        alt="Wenjie Xu's Stats" /></p>
+
+<p>&nbsp;<img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=wenjiexu2000&show_icons=true&locale=en"
+        alt="Wenjie Xu's Stats" /></p>
 
 ---
 
-<!--my introduction end -->
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"
+    width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
-<br>
-<p align="center">
-  <a href="https://github.com/WenjieXu2000" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=WenjieXu2000&title_color=333&text_color=777" alt="Wenjie Xu's Stats" >
-  </a>
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="40" height="40" /> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript" width="40" height="40" /> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="typescript" width="40" height="40" /> </a>
+    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"
+            height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5" width="40" height="40" /> </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a>
 </p>
-
-<p align="center">
-  </a>
-  &emsp;
-  <a href="https://blog.csdn.net/weixin_46283583" target="_blank" alt="CSDN" title="CSDN">
-    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
-  </a>
-  &emsp;
-  <a href="https://www.zhihu.com/people/ni_qiu" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://space.bilibili.com/353575010" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
-  </a>
-  &emsp;
-  <a href="https://www.linkedin.com/in/%E6%96%87%E6%9D%B0-%E5%BE%90-046b8b200" target="_blank" alt="LinkedIn" title="LinkedIn">
-    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
-  </a>
-  &emsp;
+<p align="left">
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+            alt="docker" width="40" height="40" /> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="mysql" width="40" height="40" /> </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="mongodb" width="40" height="40" /> </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="nodejs" width="40" height="40" /> </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+            width="40" height="40" /> </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" /> </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react" width="40" height="40" /> </a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+            alt="scikit_learn" width="40" height="40" /> </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+            alt="pandas" width="40" height="40" /> </a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img
+            src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40"
+            height="40" /> </a>
 </p>
-
-<h2></h2>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- stackoverflow profile
-<a href="https://stackoverflow.com/users/8317261/charmve"><img align="right" alt="Profile of Charmve (张伟) on StackOverflow" src="https://stackoverflow.com/users/flair/8317261.png"></a>-->
-
-**Languages and Frameworks**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON" title="JSON"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" alt="Qt" title="Qt"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
-<code><img height="20" src="OctoCharmve/pytorch-logo.png" alt="PyTorch" title="PyTorch"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
-
-**Tools and Environments**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/29084184/128668555-59d96329-2e64-4370-bfdc-89bf7a12aea8.png" alt="ARM-Keil" title="ARM-Keil"></code>
-<code><img height="20" src="https://images.nowcoder.com/images/20180629/0_1530258305740_67F7BB46DE9FC78164CA628F2CE05C37" alt="PyCharm" title="PyCharm"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" title="Vim"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="Matlab" title="Matlab"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
-
-<br>
---------------------
